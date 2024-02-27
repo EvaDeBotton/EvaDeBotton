@@ -4,9 +4,8 @@ Embedded Software Engineer</a></h1>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (C)</b>
-  - [Praciting DS & Algos in C](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Praciting DS & Algos in C](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Praciting DS & Algos in C](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in C]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/EvaDeBotton/DataStructures/tree/main))
+
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Network Programming in C](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
